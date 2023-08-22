@@ -17,7 +17,7 @@ const Page = () => (
   <>
     <Head>
       <title>
-        Overview | Devias Kit
+        Devias Kit
       </title>
     </Head>
     <Box
@@ -147,8 +147,8 @@ const Page = () => (
             />
           </Grid>
           <Grid
-            xs={12}
-            md={12}
+            xs={14}
+            md={14}
             lg={8}
           >
             <OverviewLatestOrders
