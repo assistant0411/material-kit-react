@@ -78,9 +78,9 @@ const Page = () => {
         sx={{
           backgroundColor: 'background.paper',
           flex: '1 1 auto',
-          alignItems: 'left',
+          alignItems: 'center',
           display: 'flex',
-          justifyContent: 'left'
+          justifyContent: 'center'
         }}
       >
         <Box
