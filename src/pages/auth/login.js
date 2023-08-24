@@ -128,6 +128,10 @@ const Page = () => {
                 label="Phone Number"
                 value="phoneNumber"
               />
+              <Tab
+                  label = "name"
+                  value = "name"
+              />
             </Tabs>
             {method === 'email' && (
               <form
